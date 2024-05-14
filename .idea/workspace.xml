@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f1a0ebc-f13d-43f6-9110-8ef4a93a2eec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/keda-event-driven-autoscaling-microservices.iml" afterDir="false" />
+    <list default="true" id="3f1a0ebc-f13d-43f6-9110-8ef4a93a2eec" name="Changes" comment="Add microservices">
+      <change beforePath="$PROJECT_DIR$/keda-service-registry/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keda-service-registry/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keda-service-registry/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/keda-service-registry/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,11 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/keda-service-registry" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2gTIMQ6xixbXJpt90NLhwwsvb4k" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -30,7 +29,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -42,6 +42,25 @@
       <option name="presentableId" value="Default" />
       <updated>1715715091420</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add microservices">
+      <option name="closed" value="true" />
+      <created>1715715226337</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715715226337</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/keda-product-microservice" />
+      <path value="$PROJECT_DIR$/keda-user-microservice" />
+      <path value="$PROJECT_DIR$/keda-service-registry" />
+    </ignored-roots>
+    <MESSAGE value="Add microservices" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add microservices" />
   </component>
 </project>
