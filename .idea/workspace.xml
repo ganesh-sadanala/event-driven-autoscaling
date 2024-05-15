@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f1a0ebc-f13d-43f6-9110-8ef4a93a2eec" name="Changes" comment="Add user  microservice">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3f1a0ebc-f13d-43f6-9110-8ef4a93a2eec" name="Changes" comment="Add Eureka(Service Discovery/service registry) server and client configuration" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715717645947</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Add Eureka(Service Discovery/service registry) server and client configuration">
+      <option name="closed" value="true" />
+      <created>1715720946726</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1715720946726</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -105,6 +111,7 @@
     <MESSAGE value="delete service registry, user microservice" />
     <MESSAGE value="Add service registry microservice" />
     <MESSAGE value="Add user  microservice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add user  microservice" />
+    <MESSAGE value="Add Eureka(Service Discovery/service registry) server and client configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Eureka(Service Discovery/service registry) server and client configuration" />
   </component>
 </project>
