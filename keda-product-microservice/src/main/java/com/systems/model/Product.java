@@ -1,7 +1,14 @@
 package com.systems.model;
 
+import jakarta.persistence.*;
+
+@Entity
+@Table(name = "products")
 // Payment.java
 public class Product {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
     private String name;
