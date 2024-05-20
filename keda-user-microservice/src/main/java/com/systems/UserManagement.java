@@ -10,7 +10,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 public class UserManagement {
     public static void main(String[] args) {
         // Will configure using accounts-server.yml
-        System.setProperty("spring.config.name", "users-server");
+        System.setProperty("spring.config.additional-location", "classpath:users-server.yml");
 
         SpringApplication.run(UserManagement.class, args);
     }

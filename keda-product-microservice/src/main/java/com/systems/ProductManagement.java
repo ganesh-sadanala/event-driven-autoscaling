@@ -8,8 +8,8 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 @EnableDiscoveryClient
 public class ProductManagement {
     public static void main(String[] args) {
-        // Will configure using product-server.yml
-        System.setProperty("spring.config.name", "product-server");
+        // Will also configure using product-server.yml
+        System.setProperty("spring.config.additional-location", "classpath:product-server.yml");
 
         SpringApplication.run(ProductManagement.class, args);
     }
