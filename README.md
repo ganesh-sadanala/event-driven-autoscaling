@@ -6,5 +6,8 @@ Self-healing microservices that automatically adapt resource allocation based on
 **Architecture:** Microservices \
 **Systems concepts:** Service Discovery(Registry) using Netflix Eureka Server and Client
 
+**Microservice Registry**
 
+![product-service.png](resources%2Fproduct-service.png)
 
+![user-service.png](resources%2Fuser-service.png)
