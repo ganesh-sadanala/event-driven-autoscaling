@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e783707a-d6af-4502-abd1-eb6c341247dd" name="Changes" comment="Add postgresql connection">
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../keda-service-registry/src/main/java/com/systems/ServiceRegistrationServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../keda-service-registry/src/main/java/com/systems/ServiceRegistrationServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/product-server.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/product-server.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keda-service-registry/src/main/resources/registration-server.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../keda-service-registry/src/main/resources/registration-server.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../keda-user-microservice/src/main/resources/users-server.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../keda-user-microservice/src/main/resources/users-server.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

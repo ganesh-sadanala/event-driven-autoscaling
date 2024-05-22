@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f1a0ebc-f13d-43f6-9110-8ef4a93a2eec" name="Changes" comment="Add README.md">
+    <list default="true" id="3f1a0ebc-f13d-43f6-9110-8ef4a93a2eec" name="Changes" comment="Add screenshots of service registry">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keda-product-microservice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/keda-product-microservice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keda-product-microservice/src/main/resources/product-server.yml" beforeDir="false" afterPath="$PROJECT_DIR$/keda-product-microservice/src/main/resources/product-server.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keda-service-registry/src/main/resources/registration-server.yml" beforeDir="false" afterPath="$PROJECT_DIR$/keda-service-registry/src/main/resources/registration-server.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keda-user-microservice/src/main/resources/users-server.yml" beforeDir="false" afterPath="$PROJECT_DIR$/keda-user-microservice/src/main/resources/users-server.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,16 +32,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/gsadanala/IdeaProjects/keda-event-driven-autoscaling-microservices&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/gsadanala/IdeaProjects/keda-event-driven-autoscaling-microservices/resources",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -118,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715748499375</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add screenshots of service registry">
+      <option name="closed" value="true" />
+      <created>1716226737942</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1716226737943</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -135,6 +153,7 @@
     <MESSAGE value="Add Eureka(Service Discovery/service registry) server and client configuration" />
     <MESSAGE value="Create Dockerfile for all microservices" />
     <MESSAGE value="Add README.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add README.md" />
+    <MESSAGE value="Add screenshots of service registry" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add screenshots of service registry" />
   </component>
 </project>
