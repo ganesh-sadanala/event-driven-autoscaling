@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f1a0ebc-f13d-43f6-9110-8ef4a93a2eec" name="Changes" comment="Add screenshots of service registry">
+    <list default="true" id="3f1a0ebc-f13d-43f6-9110-8ef4a93a2eec" name="Changes" comment="Add eureka server UI">
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/initdb/init-product-db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/initdb/init-user-db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keda-service-registry/Dockerfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/keda-product-microservice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/keda-product-microservice/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keda-product-microservice/src/main/resources/product-server.yml" beforeDir="false" afterPath="$PROJECT_DIR$/keda-product-microservice/src/main/resources/product-server.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keda-service-registry/src/main/resources/registration-server.yml" beforeDir="false" afterPath="$PROJECT_DIR$/keda-service-registry/src/main/resources/registration-server.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keda-user-microservice/src/main/resources/users-server.yml" beforeDir="false" afterPath="$PROJECT_DIR$/keda-user-microservice/src/main/resources/users-server.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,16 +32,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/gsadanala/IdeaProjects/keda-event-driven-autoscaling-microservices/resources",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/gsadanala/IdeaProjects/keda-event-driven-autoscaling-microservices/resources&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resources" />
@@ -136,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716226737943</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add eureka server UI">
+      <option name="closed" value="true" />
+      <created>1716399867892</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1716399867892</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,6 +162,7 @@
     <MESSAGE value="Create Dockerfile for all microservices" />
     <MESSAGE value="Add README.md" />
     <MESSAGE value="Add screenshots of service registry" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add screenshots of service registry" />
+    <MESSAGE value="Add eureka server UI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add eureka server UI" />
   </component>
 </project>
